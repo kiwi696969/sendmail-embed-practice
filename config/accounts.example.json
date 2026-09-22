@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    {
+      "name": "我的163邮箱",
+      "provider": "163",
+      "email": "your_name@163.com",
+      "auth_code": "你的163授权码（非登录密码）"
+    }
+  ]
+}
