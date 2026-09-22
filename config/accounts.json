@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    {
+      "name": "演示账号",
+      "provider": "163",
+      "email": "demo@163.com",
+      "auth_code": "请替换为真实授权码，或使用 --dry-run 模式验证"
+    }
+  ]
+}
